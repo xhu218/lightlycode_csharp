@@ -1,0 +1,15 @@
+/workspace/CSharpProject/bin/Debug/netcoreapp6.0/main
+/workspace/CSharpProject/bin/Debug/netcoreapp6.0/main.deps.json
+/workspace/CSharpProject/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/workspace/CSharpProject/bin/Debug/netcoreapp6.0/main.dll
+/workspace/CSharpProject/bin/Debug/netcoreapp6.0/main.pdb
+/workspace/CSharpProject/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/workspace/CSharpProject/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/CSharpProject/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/workspace/CSharpProject/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/workspace/CSharpProject/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/workspace/CSharpProject/obj/Debug/netcoreapp6.0/main.dll
+/workspace/CSharpProject/obj/Debug/netcoreapp6.0/refint/main.dll
+/workspace/CSharpProject/obj/Debug/netcoreapp6.0/main.pdb
+/workspace/CSharpProject/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
+/workspace/CSharpProject/obj/Debug/netcoreapp6.0/ref/main.dll
