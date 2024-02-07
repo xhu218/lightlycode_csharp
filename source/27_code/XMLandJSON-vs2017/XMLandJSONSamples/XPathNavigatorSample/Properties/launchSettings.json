@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XPathNavigatorSample": {
+      "commandName": "Project",
+      "commandLineArgs": "-e"
+    }
+  }
+}

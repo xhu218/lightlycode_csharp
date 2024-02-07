@@ -1,0 +1,15 @@
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/bin/Debug/netcoreapp6.0/ArgumentsSample
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/bin/Debug/netcoreapp6.0/ArgumentsSample.deps.json
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/bin/Debug/netcoreapp6.0/ArgumentsSample.runtimeconfig.json
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/bin/Debug/netcoreapp6.0/ArgumentsSample.dll
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/bin/Debug/netcoreapp6.0/ArgumentsSample.pdb
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/obj/Debug/netcoreapp6.0/ArgumentsSample.csproj.AssemblyReference.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/obj/Debug/netcoreapp6.0/ArgumentsSample.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/obj/Debug/netcoreapp6.0/ArgumentsSample.AssemblyInfoInputs.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/obj/Debug/netcoreapp6.0/ArgumentsSample.AssemblyInfo.cs
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/obj/Debug/netcoreapp6.0/ArgumentsSample.csproj.CoreCompileInputs.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/obj/Debug/netcoreapp6.0/ArgumentsSample.dll
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/obj/Debug/netcoreapp6.0/refint/ArgumentsSample.dll
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/obj/Debug/netcoreapp6.0/ArgumentsSample.pdb
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/obj/Debug/netcoreapp6.0/ArgumentsSample.genruntimeconfig.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ArgumentsSample/obj/Debug/netcoreapp6.0/ref/ArgumentsSample.dll

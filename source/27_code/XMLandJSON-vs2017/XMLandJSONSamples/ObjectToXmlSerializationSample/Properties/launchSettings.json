@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ObjectToXmlSerializationSample": {
+      "commandName": "Project",
+      "commandLineArgs": "-st"
+    }
+  }
+}

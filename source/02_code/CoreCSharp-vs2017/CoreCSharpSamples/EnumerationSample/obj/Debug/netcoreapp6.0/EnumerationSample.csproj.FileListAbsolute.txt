@@ -1,0 +1,15 @@
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/bin/Debug/netcoreapp6.0/EnumerationSample
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/bin/Debug/netcoreapp6.0/EnumerationSample.deps.json
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/bin/Debug/netcoreapp6.0/EnumerationSample.runtimeconfig.json
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/bin/Debug/netcoreapp6.0/EnumerationSample.dll
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/bin/Debug/netcoreapp6.0/EnumerationSample.pdb
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/obj/Debug/netcoreapp6.0/EnumerationSample.csproj.AssemblyReference.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/obj/Debug/netcoreapp6.0/EnumerationSample.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/obj/Debug/netcoreapp6.0/EnumerationSample.AssemblyInfoInputs.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/obj/Debug/netcoreapp6.0/EnumerationSample.AssemblyInfo.cs
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/obj/Debug/netcoreapp6.0/EnumerationSample.csproj.CoreCompileInputs.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/obj/Debug/netcoreapp6.0/EnumerationSample.dll
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/obj/Debug/netcoreapp6.0/refint/EnumerationSample.dll
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/obj/Debug/netcoreapp6.0/EnumerationSample.pdb
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/obj/Debug/netcoreapp6.0/EnumerationSample.genruntimeconfig.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/EnumerationSample/obj/Debug/netcoreapp6.0/ref/EnumerationSample.dll

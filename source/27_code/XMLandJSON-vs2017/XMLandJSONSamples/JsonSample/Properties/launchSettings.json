@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JsonSample": {
+      "commandName": "Project",
+      "commandLineArgs": "-c"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/bin/Debug/netcoreapp6.0/ForLoop
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/bin/Debug/netcoreapp6.0/ForLoop.deps.json
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/bin/Debug/netcoreapp6.0/ForLoop.runtimeconfig.json
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/bin/Debug/netcoreapp6.0/ForLoop.dll
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/bin/Debug/netcoreapp6.0/ForLoop.pdb
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/obj/Debug/netcoreapp6.0/ForLoop.csproj.AssemblyReference.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/obj/Debug/netcoreapp6.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/obj/Debug/netcoreapp6.0/ForLoop.AssemblyInfoInputs.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/obj/Debug/netcoreapp6.0/ForLoop.AssemblyInfo.cs
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/obj/Debug/netcoreapp6.0/ForLoop.csproj.CoreCompileInputs.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/obj/Debug/netcoreapp6.0/ForLoop.dll
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/obj/Debug/netcoreapp6.0/refint/ForLoop.dll
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/obj/Debug/netcoreapp6.0/ForLoop.pdb
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/obj/Debug/netcoreapp6.0/ForLoop.genruntimeconfig.cache
+/workspace/CSharpProject/source/02_code/CoreCSharp-vs2017/CoreCSharpSamples/ForLoop/obj/Debug/netcoreapp6.0/ref/ForLoop.dll

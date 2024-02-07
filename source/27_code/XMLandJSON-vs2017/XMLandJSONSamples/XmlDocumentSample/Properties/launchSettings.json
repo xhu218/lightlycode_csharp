@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XmlDocumentSample": {
+      "commandName": "Project",
+      "commandLineArgs": "-w"
+    }
+  }
+}

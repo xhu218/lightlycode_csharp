@@ -1,0 +1,5 @@
+/workspace/CSharpProject/bin/Debug/netcoreapp6.0/publish/main
+/workspace/CSharpProject/bin/Debug/netcoreapp6.0/publish/main.dll
+/workspace/CSharpProject/bin/Debug/netcoreapp6.0/publish/main.deps.json
+/workspace/CSharpProject/bin/Debug/netcoreapp6.0/publish/main.runtimeconfig.json
+/workspace/CSharpProject/bin/Debug/netcoreapp6.0/publish/main.pdb

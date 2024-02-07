@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UdpReceiver": {
+      "commandName": "Project",
+      "commandLineArgs": "-p 9400 -g ff05::1 -ipv6"
+    }
+  }
+}

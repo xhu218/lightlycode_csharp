@@ -1,0 +1,15 @@
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/bin/Debug/netcoreapp6.0/HelloWorldApp
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/bin/Debug/netcoreapp6.0/HelloWorldApp.deps.json
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/bin/Debug/netcoreapp6.0/HelloWorldApp.runtimeconfig.json
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/bin/Debug/netcoreapp6.0/HelloWorldApp.dll
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/bin/Debug/netcoreapp6.0/HelloWorldApp.pdb
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/obj/Debug/netcoreapp6.0/HelloWorldApp.csproj.AssemblyReference.cache
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/obj/Debug/netcoreapp6.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/obj/Debug/netcoreapp6.0/HelloWorldApp.AssemblyInfoInputs.cache
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/obj/Debug/netcoreapp6.0/HelloWorldApp.AssemblyInfo.cs
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/obj/Debug/netcoreapp6.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/obj/Debug/netcoreapp6.0/HelloWorldApp.dll
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/obj/Debug/netcoreapp6.0/refint/HelloWorldApp.dll
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/obj/Debug/netcoreapp6.0/HelloWorldApp.pdb
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/obj/Debug/netcoreapp6.0/HelloWorldApp.genruntimeconfig.cache
+/workspace/CSharpProject/source/01_code/HelloWorld-vs2017/HelloWorldApp/obj/Debug/netcoreapp6.0/ref/HelloWorldApp.dll
